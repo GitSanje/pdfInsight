@@ -16,3 +16,4 @@ pydantic_settings
 langchain-text-splitters
 langchain_google_genai
 langchain-chroma
+langgraph
